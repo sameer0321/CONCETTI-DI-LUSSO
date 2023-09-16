@@ -1,0 +1,109 @@
+:root{
+
+    /* font families */
+    --ff-Hind-Siliguri:'Hind Siliguri', sans-serif;
+    --ff-Open-Sans:'Open Sans', sans-serif;
+
+
+    /* font sizes */
+    --xl-f-4:64px;
+    --xl-f-3:58px;
+    --xxl-f:36px;
+    --xl-f:30px;
+    --l-f:24px;
+    --md-f:18px;
+    --s-f:17px;
+    --vs-f:16px;
+    --vvs-f:14px;
+
+    /* font weights */
+    --fw-700:700;
+    --fw-600:600;
+    --fw-500:500;
+    --fw-400:400;
+
+    /* colors */
+    --color-white:#FFFFFF;
+    --color-white-2:#F3F5F6;
+    --color-white-3:#F7F7F7;
+    --color-brown:#9E3040;
+    --color-gray:#686868;
+    --color-dgray:#656565;
+    --color-black:#000000;
+    --color-dark:#232323;
+    --color-extra-dark:#303030;
+
+}
+.ff-Hind-Siliguri{
+    font-family: var(--ff-Hind-Siliguri);
+}
+.ff-Open-Sans{
+    font-family: var(--ff-Open-Sans);
+}
+.fw-700{
+    font-weight: var(--fw-700);
+}
+.fw-600{
+    font-weight: var(--fw-600);
+}
+.fw-500{
+    font-weight: var(--fw-500);
+}
+.fw-400{
+    font-weight: var(--fw-400);
+}
+.xl-f-4{
+    font-size: var(--xl-f-4);
+}
+.xl-f-3{
+    font-size: var(--xl-f-3);
+}
+.xxl-f{
+    font-size: var(--xxl-f);
+}
+.xl-f{
+    font-size: var(--xl-f);
+}
+.l-f{
+    font-size: var(--l-f);
+}
+.md-f{
+    font-size: var(--md-f);
+}
+.s-f{
+    font-size: var(--s-f);
+}
+.vs-f{
+    font-size: var(--vs-f);
+}
+.vvs-f{
+    font-size: var(--vvs-f);
+}
+.color-white{
+    color: var(--color-white);
+}
+
+.color-white-2{
+    color: var(--color-white-2);
+}
+.color-white-3{
+    color: var(--color-white-3);
+}
+.color-brown{
+    color: var(--color-brown);
+}
+.color-gray{
+    color: var(--color-gray);
+}
+.color-dgray{
+    color: var(--color-dgray);
+}
+.color-black{
+    color: var(--color-black);
+}
+.color-dark{
+    color: var(--color-dark);
+}
+.color-extra-dark{
+    color: var(--color-extra-dark);
+}
